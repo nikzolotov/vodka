@@ -1,0 +1,10 @@
+﻿/* hasLayout */
+.l-wrapper {
+	zoom: 1;
+	}
+
+/* Content blocs */
+.b-menu .item {
+	display: inline;
+	zoom: 1;
+	}

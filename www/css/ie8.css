@@ -1,0 +1,4 @@
+﻿/* Simple blocks */
+.b-cover-fade {
+	filter: alpha(opacity = 30);
+	}
